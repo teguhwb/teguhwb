@@ -11,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm an IT professional with experience in IT Operations, Database Administration, and Application Support.<br><br>I enjoy working with data and solving technical problems. Currently, I'm expanding my skills in Data Engineering and learning how to build reliable data pipelines and data solutions.<br><br>This GitHub profile serves as my portfolio, where I share my projects, learning journey, and technical work.</p>
+<p data-importer="text" align="left">Hi! I'm an IT professional with experience in IT Operations, Database Administration, and Application Support.<br><br>I enjoy working with data and solving technical problems. Currently, I'm expanding my skills in Data Analytics, Data Engineering, DevOps Engineering and learning how to build reliable data pipelines and data solutions.<br><br>This GitHub profile serves as my portfolio, where I share my projects, learning journey, and technical work.</p>
 
 ###
 
